@@ -13,5 +13,16 @@ body{
 }
 
 li{
-    margin: 2rem;
+    margin: 1rem;
+    background: #4CAF50;
+    display: flex;
+    justify-content: center;
+    border-radius: .2rem;
+    padding-block: .7rem;
+    padding-inline: 0.2rem;
+}
+
+a{
+    color: #fff;
+    text-decoration: none;
 }
